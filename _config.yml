@@ -15,7 +15,7 @@ defaults:
       image: true
 
 title: RoswellBlog
-name: /存档新闻/
+name: /RoswellBlog/
 description: /点击图标进入博客/
 
 github: https://github.com/showzeng/Minimalism
