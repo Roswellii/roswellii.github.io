@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      CONTACT = ohshit@tempinbox.com       # 标题 
+title:      CONTACT： ohshit@tempinbox.com       # 标题 
 subtitle:   #副标题
 date:       2020-03-06              # 时间
 author:     ALL VISITORS                      # 作者
